@@ -1,0 +1,53 @@
+body{
+	
+	font-family: Arial;
+
+}
+.blockii{
+	text-align: center;
+	font-size: 150%;
+	color:yellow; 
+	background-color: blue;
+	
+}
+.block img{
+	object-fit: auto;
+	max-height: 100%;
+	max-width: 100%;
+	display: block; 
+}
+.blockii p{
+	color: #daa520;
+
+}
+p{
+	text-align: center;
+		
+}
+
+.blockv{
+	text-align: center;
+	background-color: 
+}
+.blockv img{
+	object-fit: auto;
+	max-height: 100%;
+	max-width: 100%;
+	display: block;
+}
+
+.blockiii{
+	background-color: #7FFFD4;
+	padding: 10px;
+	font-size: 150%;
+	text-align: center;
+	
+}
+.blockiv{
+	background-color: #FFD700;
+	font-size: 150%;
+	text-align: center;
+	
+
+}
+
